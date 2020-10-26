@@ -1,0 +1,3 @@
+graft my_project_nic
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  my_project_nic/jupy *
